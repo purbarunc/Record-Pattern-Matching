@@ -9,7 +9,7 @@ import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;
 
 
-@DisplayName("LoanService Parameterized Test for Sealed Loan Interface")
+@DisplayName("LoanService Parameterized Test for Non-Sealed Loan Interface")
 class LoanServiceParameterizedTest {
 
 	@ParameterizedTest
